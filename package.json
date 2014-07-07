@@ -1,0 +1,15 @@
+{
+  "name": "DiscoverMeteorMDJS2Coffee",
+  "version": "0.0.0",
+  "description": "Converts Javascript code in a Markdown file into Coffeescript code",
+  "main": "index.js",
+  "dependencies": {
+    "js2coffee": "~0.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bhargav Patel",
+  "license": "MIT"
+}
