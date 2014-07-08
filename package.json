@@ -1,7 +1,7 @@
 {
   "name": "DiscoverMeteorMDJS2Coffee",
   "version": "0.0.0",
-  "description": "Converts Javascript code in a Markdown file into Coffeescript code",
+  "description": "Convert Javascript code in a Markdown file into Coffeescript code",
   "main": "index.js",
   "dependencies": {
     "js2coffee": "~0.3.0"
